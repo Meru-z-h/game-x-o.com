@@ -1,0 +1,30 @@
+#game{ 
+    width: 300px; 
+    margin: 0 auto; 
+     
+} 
+ 
+.btn{ 
+    width: 100px; 
+    height: 100px; 
+    float: left; 
+    font-size: 32px; 
+    background: blue; 
+    color: red; 
+    text-transform: uppercase; 
+} 
+.reset{ 
+ position: absolute; 
+    left: 29%; 
+    background-color: red; 
+    border: none; 
+    color: blue; 
+    font-size: 20px; 
+    font-weight: 900; 
+    padding: 11px 20px; 
+} 
+#result{ 
+ color: blue; 
+    font-size: 56px; 
+    font-weight: 900; 
+}
